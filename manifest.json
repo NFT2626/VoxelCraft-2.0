@@ -1,6 +1,6 @@
 {
-	"name": "VoxelSrv",
-	"short_name": "VoxelSrv",
+	"name": "VoxelCraft2",
+	"short_name": "VoxelCraft2",
 	"icons": [],
 	"start_url": "/index.html",
 	"display": "standalone",
